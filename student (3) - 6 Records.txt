@@ -1,0 +1,29 @@
+Student Id = 2000233
+Name = Scarlett Johansson
+course = CS
+Phone Number = 555-1111
+
+Student Id = 2101237
+Name = Robert Downey Jr.
+course = IA
+Phone Number = 555-2222
+
+Student Id = 2200899
+Name = Chris Evans
+course = IB
+Phone Number = 555-3333
+
+Student Id = 2300543
+Name = Mark Ruffalo
+course = CS
+Phone Number = 555-4444
+
+Student Id = 2401322
+Name = Jeremy Renner
+course = IA
+Phone Number = 555-5555
+
+Student Id = 2500866
+Name = Tom Holland
+course = IB
+Phone Number = 555-6666
